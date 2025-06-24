@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "SafIntern",
-  description: "Open source ed-tech internship management software",
+  description: "Open-source ed-tech internship management software",
 };
 
 export default function RootLayout({
