@@ -1,2 +1,2 @@
 # SafIntern
-An Internship Management Software
+An Open-source Internship Management Software
